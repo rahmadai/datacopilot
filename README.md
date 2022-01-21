@@ -3,6 +3,7 @@
 <br />
 <h1>
 <p align="center">
+  <img src="logo/datacopilot.jpg" alt="Logo" height=200>
   <br>Data Copilot
 </h1>
   <p align="center">
