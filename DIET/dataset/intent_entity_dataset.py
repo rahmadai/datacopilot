@@ -23,7 +23,7 @@ class RasaIntentEntityDataset(torch.utils.data.Dataset):
 
     ## intent:intent_a               <- intent name
     - testing code                            <- utterance without entity
-    - please write code using (pandas)?    <- utterance with entity
+    - please write code using (pandas)    <- utterance with entity
 
     """
 
