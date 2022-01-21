@@ -21,44 +21,40 @@
 ## intent:library/import
 - import [numpy](lib_name) 
 - import [pandas](lib_name)
+- import [matplotlib](lib_name)
+- import [seaborn](lib_name)
+- import [numpy](lib_name)
+- import [math](lib_name)
 - import all library dependencies
-- import all 
+- import all library that i want use
 
-## intent:missing_values/delete_value
-- 
+## intent:dataframe/view
+- print [all_row](row) from [table](varname)
+- show [all_row](row) from [table](varname)
+- give me [all_row](row) from [table](varname)
 
-## intent:missing_values/replace_using_mean
-- 
+## intent:data_manipulation/rename
+- change [name](column_name) into [named_new](renamed_column)
+- change [id](column_name) into [id_new](renamed_column)
+- rename the [name](column_name) into [name](renamed_column)
+- change [name](row_name) into [named_new](renamed_row)
+- change [id](row_name) into [id_new](renamed_row)
+- rename the [name](row_name) into [name](renamed_row)
 
-## intent:missing_values/replace_using_median
-- 
-
-## intent:missing_values/replace_using_modus
-- 
-
-## intent:data_cleaning/duplicate_handling
--
-
-## intent:data_cleaning/outlier_handling
--
-
-## intent:data_manipulation/rename_column
--
-
-## intent:data_manipulation/delete_column
--
+## intent:data_manipulation/delete
+- drop [name](column_name)
+- delete [id](column_name)
+- empty the [name](column_name)
+- drop [name](row_name)
+- delete [id](row_name)
+- empty the [name](row_name)
 
 ## intent:data_manipulation/update_value
--
+- change [name](column_name) [value](column_value) into [named_new](renamed_column) [value](updated_column_value)
+- update [id](column_name) [value](column_value) into [id_new](renamed_column) [value_new](updated_column_value)
 
-## intent:data_manipulation/add_column
--
-
-## intent:data_manipulation/filter_data
--
-
-## intent:data_manipulation/sorting_data
--
-
-## intent:data_manipulation/date_time
--
+## intent:data_manipulation/add
+- add [name](column_name)
+- please add [id](column_name)
+- add the [name](column_name)
+- would you please add the [name](row_name)
