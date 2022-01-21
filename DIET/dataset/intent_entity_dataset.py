@@ -21,9 +21,9 @@ class RasaIntentEntityDataset(torch.utils.data.Dataset):
 
     Dataset Example in nlu.md
 
-    ## intent:intent_데이터_자동_선물하기_멀티턴                <- intent name
-    - T끼리 데이터 주기적으로 보내기                            <- utterance without entity
-    - 인터넷 데이터 [달마다](Every_Month)마다 보내줄 수 있어?    <- utterance with entity
+    ## intent:intent_a               <- intent name
+    - testing code                            <- utterance without entity
+    - please write code using (pandas)?    <- utterance with entity
 
     """
 

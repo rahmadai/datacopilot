@@ -1,0 +1,64 @@
+## intent:dataset/load
+- open csv file [dataset.csv](datasate_name) on my [gdrive](directory)
+- load my dataset [dataset.csv](datasate_name) on [gdrive](directory)
+- open my dataset [dataset.csv](datasate_name)
+- open my dataset [dataset.csv](datasate_name) using [pandas](lib_name)
+- load my dataset [dataset.csv](datasate_name) on [gdrive](directory)using [pandas](lib_name)
+
+## intent:dataset/save
+- save the csv file [dataset.csv](datasate_name) on my [gdrive](directory)
+- save my dataset [dataset.csv](datasate_name) on [gdrive](directory)
+- save my dataset [dataset.csv](datasate_name)
+- please save my dataset [dataset.csv](datasate_name)
+
+## intent:library/install
+- install all library dependencies
+- install [pandas](lib_name)
+- install all library from [requirements.txt](req_file)
+- install library from [requirements.txt](req_file)
+- install library dependencies from [requirements.txt](req_file)
+
+## intent:library/import
+- import [numpy](lib_name) 
+- import [pandas](lib_name)
+- import all library dependencies
+- import all 
+
+## intent:missing_values/delete_value
+- 
+
+## intent:missing_values/replace_using_mean
+- 
+
+## intent:missing_values/replace_using_median
+- 
+
+## intent:missing_values/replace_using_modus
+- 
+
+## intent:data_cleaning/duplicate_handling
+-
+
+## intent:data_cleaning/outlier_handling
+-
+
+## intent:data_manipulation/rename_column
+-
+
+## intent:data_manipulation/delete_column
+-
+
+## intent:data_manipulation/update_value
+-
+
+## intent:data_manipulation/add_column
+-
+
+## intent:data_manipulation/filter_data
+-
+
+## intent:data_manipulation/sorting_data
+-
+
+## intent:data_manipulation/date_time
+-
