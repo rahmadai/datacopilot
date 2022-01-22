@@ -88,6 +88,28 @@ Here is the model performance by fine tuning it using BERT pretrained model and 
 | Data-Copilot-0.0.1 | Intent                 | 89.37         |    89.39      |    89.54         |
 | Data-Copilot-0.0.1 | Entity                 | 87.78         |    81.83      |    94.65         |
 
+## ⚙️ WIP List
+✔️ Load and save dataset
+<br>
+✔️ Install, import library
+<br>
+✔️ Dataframe manipulation (rename)
+<br>
+✔️ Dataframe manipulation (update value)
+<br>
+✔️ Handling missing value
+<br>
+❌ Cleaning outlier
+<br>
+❌ AutoVisualize data
+<br>
+❌ Recommender Transformation (Normalization)
+<br>
+❌ Deploy on server
+<br>
+❌ Implement MLOps for insert new dataset
+<br>
+
 ## 📄 License
 MIT License
 <br>
